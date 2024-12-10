@@ -16,8 +16,10 @@ console.log(code2);
 const code3 = 78 - 39;
 console.log(code3);
 
+// This will display the message in an alert popup.
 alert(
   "You have received this message because you have been chosen to open an important vault. Here is the secret combination:"
 );
 
+// This will display the combination in an alert popup.
 alert(`The combination is ${code1} - ${code2} - ${code3}`);
