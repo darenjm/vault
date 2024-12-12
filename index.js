@@ -22,4 +22,4 @@ alert(
 );
 
 // This will display the combination in an alert popup.
-alert(`The combination is ${code1} - ${code2} - ${code3}`);
+alert(  `The combination is ${code1} - ${code2} - ${code3}`);
